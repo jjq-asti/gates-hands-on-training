@@ -1,2 +1,5 @@
 iceberg_catalog/*
 *.db
+
+
+spark-warehouse/
