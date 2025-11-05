@@ -3,3 +3,4 @@ iceberg_catalog/*
 
 
 spark-warehouse/
+postgrescatlog/
